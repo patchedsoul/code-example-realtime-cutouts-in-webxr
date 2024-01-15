@@ -1,0 +1,111 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.8.19",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "playpause",
+            "rotation" : [
+                -1,
+                0,
+                0,
+                7.549790126404332e-08
+            ],
+            "scale" : [
+                1.610011100769043,
+                1.610011100769043,
+                1.610011100769043
+            ],
+            "translation" : [
+                0.017800407484173775,
+                -0.16914105415344238,
+                0.33040592074394226
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "name" : "Default",
+            "pbrMetallicRoughness" : {}
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Mesh",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1
+                    },
+                    "indices" : 2,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 264,
+            "max" : [
+                1.620249629020691,
+                1.7272502183914185,
+                0.5233744978904724
+            ],
+            "min" : [
+                -1.6202499866485596,
+                -1.7272502183914185,
+                -7.655902578562745e-09
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 264,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5123,
+            "count" : 756,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 3168,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 3168,
+            "byteOffset" : 3168
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1512,
+            "byteOffset" : 6336
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 7848,
+            "uri" : "playpause.bin"
+        }
+    ]
+}

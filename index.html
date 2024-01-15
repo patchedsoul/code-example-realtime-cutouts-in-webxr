@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>XR Keyed Cutout</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+        <link rel="stylesheet" href="css.css">
+	</head>
+	<body>
+        <div id="title">
+            WEB XR PASSTHROUGH OF REALTIME KEYED CUTOUTS<br>
+            <div id="titleSub">
+                DEMO OF MP4 ASSETS KEYED IN REALTIME AND TURNED INTO CUTOUTS 
+                THAT CAN BE VIEWED IN PASSTHORUGH XR WITH OCULUS QUEST WEB BROWSER
+            </div>
+        </div>
+        <div id="errorOverlayXR"></div>
+        <div class="mybutton" id="button-playvideo">PLAY VIDEO</div>
+        <div class="mybutton" id="button-enterxr">ENTER WEB XR</div>
+        <div id="notSupported">XR PASSTHROUGH NOT SUPPORTED</div>
+        <div id="videos"></div>
+        <div id="videoInfo">Video Preview: <span id="videoFile"></span></div>
+		<video id="video" loop playsinline crossOrigin="anonymous"><source id="videoSrc" src=""></video>
+        <canvas id="three"></canvas>
+		<script type="importmap">
+			{
+				"imports": {
+					"three":            "./lib/threejs/three.module.js",
+					"three/addons/":    "./lib/threejs/jsm/"
+				}
+			}
+		</script>
+		<script type="module" src="js.js"></script>
+	</body>
+</html>

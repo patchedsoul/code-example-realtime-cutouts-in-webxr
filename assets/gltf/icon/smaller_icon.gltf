@@ -1,0 +1,107 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.8.19",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "smaller"
+        }
+    ],
+    "materials" : [
+        {
+            "name" : "Default",
+            "pbrMetallicRoughness" : {}
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Mesh.011",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 2560,
+            "max" : [
+                2.9547932147979736,
+                2.605156421661377,
+                0.3571411073207855
+            ],
+            "min" : [
+                -2.697206974029541,
+                -2.605156421661377,
+                -0.3571411073207855
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 2560,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 2560,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 14076,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 30720,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 30720,
+            "byteOffset" : 30720
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 20480,
+            "byteOffset" : 61440
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 28152,
+            "byteOffset" : 81920
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 110072,
+            "uri" : "smaller_icon.bin"
+        }
+    ]
+}
