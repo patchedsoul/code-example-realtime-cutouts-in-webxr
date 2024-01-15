@@ -1,2 +1,15 @@
 # code-example-realtime-cutouts-in-webxr
+
+### Javascript + Threejs + GLSL
+
+#### R&D project to demonstrate how greenscreen content can be keyed in realtime using GLSL, then applied to a webGL mesh which can be viewed as a pseudo-3D asset in a 3D canvas. 
+
+#### TO view in webXR please use the Oculus Quest web browser. 
+
+### LIVE DEMO: https://fuzzyw.com/projects/cutout-demo/
+
+<br />
+
+![alt text](https://github.com/FuzzyWobble/code-example-realtime-cutouts-in-webxr/blob/main/assets/screencapture/screen.jpg)
+
  
