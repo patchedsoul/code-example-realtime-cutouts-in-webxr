@@ -10,6 +10,6 @@
 
 <br />
 
-![alt text](https://github.com/FuzzyWobble/code-example-realtime-cutouts-in-webxr/blob/main/assets/screencapture/screen.jpg)
+![alt text](https://github.com/FuzzyWobble/code-example-realtime-cutouts-in-webxr/blob/main/assets/screencapture/demoGif.gif)
 
  
