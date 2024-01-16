@@ -8,11 +8,7 @@
 
 ##### LIVE DEMO: https://fuzzyw.com/projects/cutout-demo/
 
-<br />
-
-<video width="480" height="480" controls>
-  <source src="https://github.com/FuzzyWobble/code-example-realtime-cutouts-in-webxr/blob/main/assets/screencapture/passthroughDemo.mp4" type="video/mp4">
-</video>
+##### VIDEO DEMO: https://fuzzyw.com/projects/cutout-demo/assets/screengrab/passthroughDemo.mp4
 
 <br />
 
