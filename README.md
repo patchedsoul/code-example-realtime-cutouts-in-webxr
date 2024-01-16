@@ -11,8 +11,10 @@
 <br />
 
 <video width="480" height="480" controls>
-  <source src="[video.mov](https://github.com/FuzzyWobble/code-example-realtime-cutouts-in-webxr/blob/main/assets/screencapture/passthroughDemo.mp4)" type="video/mp4">
+  <source src="https://github.com/FuzzyWobble/code-example-realtime-cutouts-in-webxr/blob/main/assets/screencapture/passthroughDemo.mp4" type="video/mp4">
 </video>
+
+<br />
 
 ![alt text](https://github.com/FuzzyWobble/code-example-realtime-cutouts-in-webxr/blob/main/assets/screencapture/demoGif.gif)
 
