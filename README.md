@@ -12,6 +12,8 @@
 
 <br />
 
+![alt text](https://github.com/FuzzyWobble/code-example-realtime-cutouts-in-webxr/blob/main/assets/screencapture/screen2.jpg)
+<br />
 ![alt text](https://github.com/FuzzyWobble/code-example-realtime-cutouts-in-webxr/blob/main/assets/screencapture/demoGifBean.gif)
 <br />
 ![alt text](https://github.com/FuzzyWobble/code-example-realtime-cutouts-in-webxr/blob/main/assets/screencapture/demoGifFrog.gif)
