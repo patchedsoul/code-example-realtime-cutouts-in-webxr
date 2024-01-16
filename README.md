@@ -2,7 +2,7 @@
 
 ### Javascript + Threejs + GLSL
 
-#### R&D project to demonstrate how greenscreen content can be keyed in realtime using GLSL, then applied to a webGL mesh which can be viewed as a pseudo-3D asset in a 3D canvas. 
+#### R&D project to demonstrate how greenscreen type MP4 video can be keyed in realtime using GLSL, then applied to a webGL mesh which can be viewed as a pseudo-3D asset in a 3D canvas and webXR.
 
 #### TO view in webXR please use the Oculus Quest web browser. 
 
