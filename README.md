@@ -1,6 +1,6 @@
 ### code-example-realtime-cutouts-in-webxr
 
-#### Javascript + Threejs + GLSL
+#### Threejs + GLSL + JavaScript
 
 ##### R&D project to demonstrate how greenscreen type MP4 video can be keyed in realtime using GLSL, then applied to a webGL mesh which can be viewed as a pseudo-3D asset in a 3D canvas and webXR. To view in webXR please use the Oculus Quest web browser, and enable passthrough mode. 
 
